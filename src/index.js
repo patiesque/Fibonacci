@@ -30,9 +30,6 @@ const isFibonnaci = (num) => {
       }
 }
 
-console.log(isFibonnaci(5))
-
-
 module.exports = {
     fibonacci,
     isFibonnaci

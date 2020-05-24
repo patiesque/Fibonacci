@@ -12,7 +12,7 @@
 
 Repositorio foi desenvolvido para projeto modulo 3 curso AceleraDev React.<br/>
 Método fibonacci que retorne um Array com os primeiro números de série de Fibonacci até passar de 350.<br/>
-Método "isFibonnaci" que recebe um Number como parâmetro e retorne Boolean.
+Método isFibonnaci que recebe um Number como parâmetro e retorne Boolean.
 
 ## ⚙️ Techs:
 - JavaScript
